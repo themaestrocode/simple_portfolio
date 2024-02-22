@@ -21,9 +21,9 @@
   grid-template-columns: 1fr 1fr 1fr;
   justify-content: space-between;
   align-items: center;
-  column-gap: 14px;
-  row-gap: 14px;
-  padding: 0 120px;
+  column-gap: 20px;
+  row-gap: 20px;
+  padding: 20px 120px;
 }
 
 .skill {
@@ -34,12 +34,13 @@
 }
 
 .skill p, h3 {
-  font-size: 0.85rem;
+  font-size: 1rem;
   margin: 0;
   text-align: center;
 }
 
 .project-lists {
+  margin-top: 40px;
   padding: 0 120px;
   font-size: 0.85rem;
 }
