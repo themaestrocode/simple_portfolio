@@ -44,7 +44,7 @@
   border-bottom-right-radius: 120px;
 }
 
-@media (max-width: 580px) {
+@media (max-width: 576px) {
   .top-section {
     grid-template-columns: 1fr;
     row-gap: 60px;
