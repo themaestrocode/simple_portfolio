@@ -1,0 +1,12 @@
+footer {
+  background-color: black;
+  margin-top: 60px;
+
+}
+
+.footer-note {
+  color: rgb(238, 238, 238);
+  padding: 20px 0;
+  font-size: 0.9rem;
+  text-align: center;
+}
